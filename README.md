@@ -15,6 +15,6 @@ https://github.com/Edmilson2606/Edmilson2606.github.io.git
 ## Contato
 
 Edmilson Melo
-[email]() - <edmilsonmelo2606@gmail.com>
+[email]() - <ecmelo.26@gmail.com>
 
 ###### Distribuição open source ######
